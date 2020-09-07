@@ -1,3 +1,4 @@
-- **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. **Completed**
-- **Panagram Check** - If a sentance contains every letter in the English alphabet **Completed**
-- **Longest Valid Substring** - As tring contains only characters '(' and ')' find the length of longest valid parentheses substring. **Completed**
+- **Problem 1** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. **Completed**
+- **Problem 2** - If a sentance contains every letter in the English alphabet **Completed**
+- **Problem 3** - As tring contains only characters '(' and ')' find the length of longest valid parentheses substring. **Completed**
+- **Problem 4** - Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. **To-Do**
