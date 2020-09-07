@@ -1,1 +1,2 @@
 - **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. **Completed**
+- **Panagram Check** - If a sentance contains every letter in the English alphabet **Completed**
