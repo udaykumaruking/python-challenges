@@ -2,3 +2,4 @@
 - **Problem 2** - If a sentance contains every letter in the English alphabet **Completed**
 - **Problem 3** - As tring contains only characters '(' and ')' find the length of longest valid parentheses substring. **Completed**
 - **Problem 4** - Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. **To-Do**
+- **Problem 5** - Implement The function accepts two positive integers ‘m’ & ‘n’ as its arguments. You are required to calculate the sum of numbers divisible by both 3 and 5 between the inclusive range of m and n.
