@@ -11,3 +11,4 @@
   tim1 >= time2
   d1, d2, s1, s2 are greater than 0.
   dir is either 1 or 0.
+- **Problem 7** - Implement an algorithm to determine if a string has all unique characters.
