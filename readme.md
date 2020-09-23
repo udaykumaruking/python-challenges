@@ -12,4 +12,4 @@
   d1, d2, s1, s2 are greater than 0.
   dir is either 1 or 0.
 - **Problem 7** - Implement an algorithm to determine if a string has all unique characters.
-  P
+  **Problem 8** - The Symmetric Difference (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference)
