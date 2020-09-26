@@ -12,10 +12,10 @@
   d1, d2, s1, s2 are greater than 0.
   dir is either 1 or 0.
 - **Problem 7** - Implement an algorithm to determine if a string has all unique characters.
-  **Problem 8** - The Symmetric Difference (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference)
-  **Problem 11** - Define a function that checks if a number is prime or not. (Propel School)
-  **Problem 12** - Define a function called "square" which returns the square of a number. (Propel School)
-  **Problem 13** - Define another function called "fourth_power" which uses "square" to calculate the fourth power of a number. (Propel School)
-  **Problem 14** - Define a function that takes an array as input and prints all values of the array in reverse order. (Propel School)
-  **Problem 15** - Define a function that takes a integer 2d array as input and doubles all the elements in the array. (Propel School)
-  **Problem 16** - Define a function that takes a sentence as input replaces all the spaces with "-". (Propel School)
+- **Problem 8** - The Symmetric Difference (https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference)
+- **Problem 11** - Define a function that checks if a number is prime or not. (Propel School)
+- **Problem 12** - Define a function called "square" which returns the square of a number. (Propel School)
+- **Problem 13** - Define another function called "fourth_power" which uses "square" to calculate the fourth power of a number. (Propel School)
+- **Problem 14** - Define a function that takes an array as input and prints all values of the array in reverse order. (Propel School)
+- **Problem 15** - Define a function that takes a integer 2d array as input and doubles all the elements in the array. (Propel School)
+- **Problem 16** - Define a function that takes a sentence as input replaces all the spaces with "-". (Propel School)
